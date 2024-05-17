@@ -1,7 +1,7 @@
 # OCTANET_MAY
 
 ## Live Project
-Check out the live project [here](http://example.com).
+Check out the live project [here]([http://example.com](https://awesh005.github.io/OCTANET_MAY/)).
 
 
 ## Screenshot
